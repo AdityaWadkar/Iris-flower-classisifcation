@@ -4,7 +4,7 @@
 [![PEP8](https://img.shields.io/badge/code%20style-pep8-orange.svg)](https://www.python.org/dev/peps/pep-0008/)
 [![Gitmoji](https://img.shields.io/badge/gitmoji-%20🚀%20🐳-FFDD67.svg)](https://gitmoji.carloscuesta.me)
 
-
+## 🌼Download dataset from [here](https://www.kaggle.com/datasets/saurabh00007/iriscsv)
 ## 🚀 Brief Idea
 The Iris dataset is a popular dataset for machine learning classification projects. It contains measurements for 150 iris flowers from three different species - setosa, versicolor, and virginica. The goal of the project is to create a classification model that can accurately predict the species of a new iris flower based on its measurements.
 
